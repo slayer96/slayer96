@@ -1,16 +1,13 @@
 <h1 align="left">Hi 👋, I'm Mike</h1> 
 <h3 align="left">Python Engineer from Lviv, Ukraine 🇺🇦 with 8+ years of experience in backend development, data processing, and some frontend with VueJS. Passionate about Data Science, AI, and Blockchain technologies.</h3>
----
 
-### 🌟 About Me:
+## 🌟 About Me:
 
 - 🌱 Learning **Data Science**, **ML**, and **Blockchain**
 - 📫 Reach me: [myhailo.mykytyn.96@gmail.com](mailto:myhailo.mykytyn.96@gmail.com)
 - 📄 [View My CV](http://surl.li/qowlhl)
 
----
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left"> 
     <a href="https://linkedin.com/in/mykhailo-mykytyn" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
@@ -19,8 +16,6 @@
     <a href="https://github.com/slayer96" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
     <a href="https://upwork.com/freelancers/~016ba7e8e64437ad85" target="_blank"> <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"> </a> 
 </p>
-
----
 
 ## 🛠 Technologies
 
