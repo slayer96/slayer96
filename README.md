@@ -15,6 +15,7 @@
     <a href="https://fb.com/mykytyn.myhailo" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> 
     <a href="https://github.com/slayer96" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
     <a href="https://upwork.com/freelancers/~016ba7e8e64437ad85" target="_blank"> <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"> </a> 
+    <a href="https://leetcode.com/u/mike_m" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ## 🛠 Technologies
